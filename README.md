@@ -1,3 +1,5 @@
+# Manual -- ssh_key_copy_manual.pdf
+
 # SSH KEY COPY
 #=================================================
 
